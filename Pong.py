@@ -195,7 +195,6 @@ def game_loop():
           up = True
           #print("bar bottom worx")
 
-      #NOTWORKING
       if posx <= -1:
           posx = 450
           posy = 300
